@@ -27,7 +27,7 @@ class N11SearchUser(HttpUser):
             "Upgrade-Insecure-Requests": "1",
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_4_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
 
-            # 🔐 Gerçek cookie bilgileri burada:
+            
             "Cookie": (
                 "n11_cookie_ver_1=true; "
                 "rememberMe=true; "
